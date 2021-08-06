@@ -1,0 +1,3 @@
+[submodule "webgl_collection"]
+	path = webgl_collection
+	url = https://github.com/sebastianolmos/webgl_collection

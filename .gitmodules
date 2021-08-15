@@ -1,3 +1,6 @@
 [submodule "webgl_collection"]
 	path = webgl_collection
 	url = https://github.com/sebastianolmos/webgl_collection
+[submodule "threejs_collection"]
+	path = threejs_collection
+	url = https://github.com/sebastianolmos/threejs_collection

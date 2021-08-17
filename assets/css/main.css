@@ -2899,10 +2899,12 @@ input, select, textarea {
 
 		}
 
+
+
 /* Wrapper */
 
 .wrapper {
-	padding: 4.5em 0 2.5em 0 ;
+	padding: 4.5em 0 6.5em 0 ;
 	background-color: #ffffff;
 	border-bottom: solid 2px #eeeeee;
 }
@@ -4536,3 +4538,4 @@ input, select, textarea {
 			}
 
 		}
+
